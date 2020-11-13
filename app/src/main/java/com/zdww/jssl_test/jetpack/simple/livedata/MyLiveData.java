@@ -1,6 +1,5 @@
 package com.zdww.jssl_test.jetpack.simple.livedata;
-
-import android.arch.lifecycle.MutableLiveData;
+import androidx.lifecycle.MutableLiveData;
 
 /**
  * @desc LiveData 数据类

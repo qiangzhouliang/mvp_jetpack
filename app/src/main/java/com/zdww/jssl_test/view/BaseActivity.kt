@@ -1,7 +1,7 @@
 package com.zdww.jssl_test.view
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.zdww.jssl_test.R
 import com.zdww.jssl_test.presenter.BasePresent
 

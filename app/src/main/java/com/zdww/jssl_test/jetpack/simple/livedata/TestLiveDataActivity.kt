@@ -1,9 +1,9 @@
 package com.zdww.jssl_test.jetpack.simple.livedata
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.widget.Button
+import androidx.appcompat.app.AppCompatActivity
 import com.zdww.jssl_test.R
 import kotlinx.android.synthetic.main.activity_test_live_data.*
 
